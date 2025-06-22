@@ -1,6 +1,6 @@
 # Computer Vision Project
 
-*Title: Chicken Detection System*  
+*Title: Chicken and Turkey Detection System*  
 *Adriza Rafly Azlami - 2155301006*
 
 ## Background
