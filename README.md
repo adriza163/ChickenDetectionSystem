@@ -14,13 +14,15 @@ Computer Vision technology is now widely used in various fields, including anima
 
 ## Dataset Used
 - Dataset: “Chicken Detection and Tracking 2” by Mohamed Traore (from Roboflow).
-- Focus: dataset for chicken.
+  chicken-detection-and-tracking-z0ohf
+- Dataset: "Turkey"
+  turkey-l1qnd-hqaou roboflow
 
 ## Implementation Process
 1. Dataset and Model Preparation
 2. Implementation of Detection with Augmented Bounding
 3. Input Image and Live Camera Testing
-4. Integration into Android
+4. Integration into Website
 
 ## Closing
 **Thank You!
