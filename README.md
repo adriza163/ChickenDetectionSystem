@@ -4,7 +4,7 @@
 *Adriza Rafly Azlami - 2155301006*
 
 ## Background
-Computer Vision technology is now widely used in various fields, including animal husbandry. One of its applications is the automatic detection of livestock through images or cameras. This project aims to build a simple system that can detect chickens using the Augmented Bounding method, with the results being the label "chicken" and a level of confidence (confidence score). This system does not perform further training or learning, but only recognizes chickens from images or cameras directly.
+Computer Vision technology is now widely used in various fields, including animal husbandry. One of its applications is the automatic detection of livestock through images or cameras. This project aims to build a simple system that can detect chickens using the Augmented Bounding method, with the results being the label "chicken" and "turkey" and a level of confidence (confidence score). This system does not perform further training or learning, but only recognizes chickens from images or cameras directly.
 
 ## Objective
 - Developing a simple Computer Vision-based system that can automatically detect chicken objects using the Augmented Bounding method.
