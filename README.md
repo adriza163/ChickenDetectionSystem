@@ -8,9 +8,9 @@ Computer Vision technology is now widely used in various fields, including anima
 
 ## Objective
 - Developing a simple Computer Vision-based system that can automatically detect chicken objects using the Augmented Bounding method.
-- Displaying the "chicken" label along with the level of confidence of the detection results.
+- Displaying the "chicken" and "turkey" label along with the level of confidence of the detection results.
 - Accepting input in the form of real-time images or videos from the camera.
-- Integrating this detection system into an Android application.
+- Integrating this detection system into Website.
 
 ## Dataset Used
 - Dataset: “Chicken Detection and Tracking 2” by Mohamed Traore (from Roboflow).
